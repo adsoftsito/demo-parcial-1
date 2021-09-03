@@ -1,1 +1,10 @@
-# demo-parcial-1
+# parcial-1
+
+integrantes
+- juan 
+- pedro
+- maria
+
+
+
+
